@@ -721,11 +721,11 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: da9413a0-bdd2-42f7-a929-74c17020fa8f
+  cloudProjectId: 5231c8d5-364d-441c-a969-633515811297
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: My project 2025-01-08_17-36-34
-  organizationId: alockw
+  projectName: Game
+  organizationId: santiagovillarraga16
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   playerDataPath: 
